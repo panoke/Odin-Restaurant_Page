@@ -13,9 +13,16 @@ header {
 
 main {   
     flex: 1 0 auto; 
+    max-width: 80%;
+    align-self: center;
+
 }
 
 #content > h1 {
+    text-align: center;
+}
+
+h3 {
     text-align: center;
 }
 
